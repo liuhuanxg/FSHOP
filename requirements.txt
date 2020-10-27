@@ -1,6 +1,6 @@
 certifi==2018.8.24
 cffi==1.13.2
-cryptography==2.8
+cryptography==3.2
 Django==2.1.8
 django-ckeditor==5.8.0
 django-js-asset==1.2.2
